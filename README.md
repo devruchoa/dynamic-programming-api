@@ -17,3 +17,11 @@ O frontend foi desenvolvido para facilitar a interação com os algoritmos, perm
 Este é o link do repositório do front caso tenha alguma dúvida: [REPO VIEW](https://github.com/devruchoa/dynamic-programming-view)
 
 ### Aqui estão os gráficos pedidos para a seguinte entrada -> Sizes = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 e Número de Amostras = 10 depois 100 depois 100, qualquer dúvida pode entrar em contato diretamente comigo, ok? Obrigado
+
+![Antes de executar o request](https://github.com/devruchoa/dynamic-programming-api/blob/master/images/view-inicial.png)
+
+![Antes de executar o request](https://github.com/devruchoa/dynamic-programming-api/blob/master/images/simulation3.png)
+
+![Antes de executar o request](https://github.com/devruchoa/dynamic-programming-api/blob/master/images/simulation2.png)
+
+![Antes de executar o request](https://github.com/devruchoa/dynamic-programming-api/blob/master/images/simulation1.png)
